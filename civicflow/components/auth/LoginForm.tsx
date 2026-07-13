@@ -75,7 +75,8 @@ export function LoginForm() {
       <div className="mt-5 rounded-md border border-dashed border-ink-200 bg-ink-50 px-3.5 py-3 text-xs text-ink-600">
         <p className="font-medium text-ink-700">Demo access</p>
         <p className="mt-1 leading-relaxed">
-          Sign in with the demo citizen account to experience the portal's functionality.
+          Sign in with the demo citizen account to experience the portal&apos;s
+          functionality.
         </p>
         <button
           type="button"
